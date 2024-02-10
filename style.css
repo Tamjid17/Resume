@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.main{
+    margin: 0 20%;
+    background-color: lightblue;
+    width: 60%;
+    height: 140%;
+    display: grid;
+    grid-template-columns: 35% 65%;
+}
+
+.left {
+    display: grid;
+    background-color: #FFFDE7;
+    grid-template-rows: 25% 20% 20% 20% 15%;
+}
+
+#picpos {
+    border: 3px solid red;
+    background-color: crimson;
+}
+#contact {
+    border: 3px solid red;
+    background-color: crimson;
+}
+#profile {
+    border: 3px solid red;
+    background-color: crimson;
+}
+#language {
+    border: 3px solid red;
+    background-color: crimson;
+}
+#hobbies {
+    border: 3px solid red;
+    background-color: crimson;
+}
+
+.right {
+    display: grid;
+    grid-template-rows: 33% 33% 34%;
+}
+
+#education {
+    border: 3px solid red;
+}
+#projects {
+    border: 3px solid red;
+}
+#skills {
+    border: 3px solid red;
+}

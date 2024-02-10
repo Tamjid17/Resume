@@ -20,15 +20,14 @@ html,body{
 
 .left {
     display: grid;
-    background-color: #FFFDE7;
+    background-color: crimson;
     grid-template-rows: 25% 20% 20% 20% 15%;
 }
 
-#picpos {
+.elem1 {
     border: 3px solid red;
-    background-color: crimson;
 }
-#contact {
+/* #contact {
     border: 3px solid red;
     background-color: crimson;
 }
@@ -43,19 +42,19 @@ html,body{
 #hobbies {
     border: 3px solid red;
     background-color: crimson;
-}
+} */
 
 .right {
     display: grid;
     grid-template-rows: 33% 33% 34%;
 }
 
-#education {
+.elem2 {
     border: 3px solid red;
 }
-#projects {
+/* #projects {
     border: 3px solid red;
 }
 #skills {
     border: 3px solid red;
-}
+} */

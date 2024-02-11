@@ -35,7 +35,7 @@ html,body{
 }
 #name {
     margin-top: 25px;
-    margin-left: 100px;
+    margin-left: 80px;
     font-size: 27px;
 }
 #pos{
@@ -172,15 +172,65 @@ html,body{
 }
 .right {
     display: grid;
-    grid-template-rows: 33% 33% 34%;
+    grid-template-rows: 26% 35% 39%;
 }
 
-#education {
-    border: 3px solid red;
+
+#educ{
+    margin-top: 50px;
+    margin-left: 55px;
+    font-size: 32px;
 }
-#projects {
-    border: 3px solid red;
+#soft {
+    margin-top: 20px;
+    margin-left: 55px;
+    font-size: 26px;
 }
-#skills {
-    border: 3px solid red;
+#inst {
+    margin-left: 55px;
+    font-size: 20px;
+}
+#year {
+    margin-left: 55px;
+    font-size: 20px;
+}
+
+#proj {
+    margin-top: 50px;
+    margin-left: 55px;
+    font-size: 32px;
+}
+#projname {
+    margin-top: 20px;
+    margin-left: 55px;
+    font-size: 26px;
+}
+#details {
+    margin-left: 55px;
+    margin-right: 40px;
+    font-size: 20px;
+}
+#built {
+    margin-left: 55px;
+    font-size: 20px;
+}
+#glink {
+    margin-left: 55px;
+    font-size: 20px;
+}
+
+#skill {
+    margin-top: 50px;
+    margin-left: 55px;
+    font-size: 32px;
+}
+#lbl {
+    margin-top: 20px;
+    margin-left: 55px;
+    font-size: 26px;
+}
+#dtl {
+    margin-left: 55px;
+    margin-right: 40px;
+    font-size: 20px;
 }

@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Merryweather;
 }
 
 html,body{
@@ -198,57 +199,69 @@ html,body{
     margin-top: 50px;
     margin-left: 55px;
     font-size: 32px;
+    color: rgb(56, 55, 55);
 }
 #soft {
     margin-top: 20px;
     margin-left: 55px;
     font-size: 26px;
+    color: rgb(56, 55, 55);
 }
 #inst {
     margin-left: 55px;
     font-size: 20px;
+    color: rgb(56, 55, 55);
 }
 #year {
     margin-left: 55px;
     font-size: 20px;
+    color: rgb(56, 55, 55);
 }
 
 #proj {
     margin-top: 50px;
     margin-left: 55px;
     font-size: 32px;
+    color: rgb(56, 55, 55);
 }
 #projname {
     margin-top: 20px;
     margin-left: 55px;
     font-size: 26px;
+    color: rgb(56, 55, 55);
 }
 #details {
     margin-left: 55px;
     margin-right: 40px;
     font-size: 20px;
+    color: rgb(56, 55, 55);
 }
 #built {
     margin-left: 55px;
     font-size: 20px;
+    color: rgb(56, 55, 55);
 }
 #glink {
     margin-left: 55px;
     font-size: 20px;
+    color: rgb(56, 55, 55);
 }
 
 #skill {
     margin-top: 50px;
     margin-left: 55px;
     font-size: 32px;
+    color: rgb(56, 55, 55);
 }
 #lbl {
     margin-top: 20px;
     margin-left: 55px;
     font-size: 26px;
+    color: rgb(56, 55, 55);
 }
 #dtl {
     margin-left: 55px;
     margin-right: 40px;
     font-size: 20px;
+    color: rgb(56, 55, 55);
 }
